@@ -11,10 +11,10 @@ I resigned, because I wanted to prepare myself and my family for immigration.
 I have multiple leadership experiences. I have managed different teams from 2-3 people to 6 people. Once I even got the responsibility of two teams which in total was around 10 people, though after a few months I was able to hand over one of the teams, as it is obvious managing such a big team is not a good idea at all.
 
 4. What is your worst experience in your leadership?  
-** Answer removed for privacy issue **  
+***Answer removed for privacy issue***  
 
 5. Have you ever fired anybody?  
-** Answer removed for privacy issue **  
+***Answer removed for privacy issue***  
 Yes, ...
 
 6. Do you like to be a hands-on person or a manager? Which one do you prefer better?  

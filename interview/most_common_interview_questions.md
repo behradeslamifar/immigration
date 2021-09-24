@@ -24,13 +24,13 @@ We don't have kids and so my wife and I are very excited about this immigration.
 We are very excited about all the career opportunities we will have. My wife is in the same industry as mine, we both have been devops for many years. We believe the career opportunities coming with this immigration could be very promising and considering the skills and knowledge we have, we predict a fast growth for our family.
 
 7. What salary are you seeking?  
-** Answer removed for privacy issue **  
+***Answer removed for privacy issue***  
 
 8. What are you looking for in terms of career development?  
-** Answer removed for privacy issue **  
+***Answer removed for privacy issue***  
 
 9. What are you bringing for our company?  
-** Answer removed for privacy issue **  
+***Answer removed for privacy issue***  
 
 9. Do you have any questions for me?  
 I know the position is remote, i am totally fine either but wondering if there is any relocation opportunity as well.  
