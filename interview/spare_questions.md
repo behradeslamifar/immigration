@@ -1,4 +1,4 @@
-# This Collections of Questions
+# Spare Questions
 
 1. Can you describe a time when your work was criticized?
 2. Have you ever been on a team where someone was not pulling their own weight?
