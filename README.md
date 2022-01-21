@@ -1,6 +1,8 @@
 <div dir="rtl"> 
 
 # مهاجرت
+**نسخه غیر نهایی**: این متن نهایی نیست پس فعلا روش حساب نکنید ;)
+
 از زمانی که تصمیم به مهاجرت گرفتم هر تجربه‌ای دارم می کنم را اینجا مستند می‌کنم. شاید به درد کسی بخوره
 
 ## مقصد و نوع مهاجرت
@@ -48,10 +50,12 @@
 * اول از همه زبان انگلیسی هست. شما باید بتونید مصاحبه کننده را بفهمید و ارتباط بگیرید و اون هم باید بتونه حرف های شما را بفهمه و ارتباط برقرار کنه.
 * دوم وقتی ازتون می خواند که خودتون را معرفی کنید. تجربه آخر و پوزیشن آخر را توضیح بدید و کارهایی فنی و انسانی که کردید و معمولا به تجربه بعدی نمی رسه و برای مصاحبه کننده کافیه.
 
-## DevOps Learning Path
-This is about jobs that call DevOps engineer, Cloud engineer, Infrastructure engineer.
+### دانش مورد نیاز DevOps
+* [مهندس دوآپس کیست؟](https://www.gov.uk/guidance/development-operations-devops-engineer)
 
-### Who is DevOps Engineer
-* [Find out what a development operations (DevOps) engineer does and the skills you need to do the job](https://www.gov.uk/guidance/development-operations-devops-engineer)
+### دانش مورد نیاز در سطح Lead
+
+## روند مهاجرت
+
 
 
